@@ -24,7 +24,7 @@
 
 ### 🚀 Engineering Pipelines & Repositories
 
-* **🧮 [leetcode-dsa-portfolio](#)**: Automated execution engine syncing data structure logic directly from my training logs.
+* **🧮 [java-dsa-portfolio](https://github.com)**: Automated execution engine syncing data structure logic directly from my training logs.
 * **🏦 [banking-system-core](#)**: *Under Research.* An upcoming robust backend architecture engine built for interview project deep-dives.
 * **📓 [uni-learning-journal](#)**: Active study logs, platform architectural deep dives, and system preparation frameworks.
 
