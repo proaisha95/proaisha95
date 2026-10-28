@@ -4,7 +4,7 @@
  **1st Year BSc Computing Student**  
  Looking for Software Development roles in 2027  
 
- **Connect:** [LinkedIn](https://linkedin.com) | [Email](mailto:proaisha95@gmail.com)
+ **Connect:** Email:proaisha95@gmail.com
 
 ---
 
