@@ -1,9 +1,10 @@
 # Hi, I'm Aisha Ali 
 ### Software Engineering Student 
 
- **1st Year BSc Computing Student**  
- Looking for Software Development roles in 2027  
-[ [LinkedIn](https://linkedin.com)](https://www.linkedin.com/in/aisha-ali-747236386/) |  [[LeetCode Profile](https://leetcode.com)](https://leetcode.com/u/aisha127/) |  proaisha95@gmail.com
+💻 **1st Year BSc Computing Student**  
+💼 Looking for Software Development roles in 2027  
+
+🛰️ **Connect:** [LinkedIn](https://linkedin.com) | [LeetCode Profile](https://leetcode.com) | [Email](mailto:proaisha95@gmail.com)
 
 ---
 
