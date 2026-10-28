@@ -32,5 +32,5 @@
 
 ### 📊 Live Algorithmic Progression Tracker
 <div align="center">
-  <img src="https://jacoblin.cool" alt="Aisha's LeetCode Analytics Card" />
+  <img src="https://vercel.app" alt="Aisha's LeetCode Analytics" />
 </div>
