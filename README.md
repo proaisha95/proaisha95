@@ -1,36 +1,22 @@
-# Hi, I'm Aisha Ali 👋
+# Hi, I'm Aisha Ali 
 ### Software Engineering Student 
 
-💻 **1st Year BSc Computing Student**  
-🎯 **Focus:** Backend Engineering, System Integration, and Scalable Cloud Infrastructure  
-📫 **Connect:** proaisha95@gmail.com  
+ **1st Year BSc Computing Student**  
+ Looking for Software Development roles in 2027  
+[ [LinkedIn](https://linkedin.com)](https://www.linkedin.com/in/aisha-ali-747236386/) |  [[LeetCode Profile](https://leetcode.com)](https://leetcode.com/u/aisha127/) |  proaisha95@gmail.com
 
 ---
 
-### 🎬 Featured Project: Cineboard
-> **A movie moodboard application combining Letterboxd-style tracking with Pinterest-style custom visual collages grouped by vibe.**
+###  Core Engineering Repositories
 
-#### 🛠️ Architecture & Deployment Roadmap
-* **Phase 1 (Client Infrastructure):** Query film records live via the [TMDB API](https://themoviedb.org) $\rightarrow$ Aggregate items into visual watch collections $\rightarrow$ Dynamic poster grid renderer $\rightarrow$ State persistence via `localStorage` $\rightarrow$ Production hosting out of an **AWS S3 static bucket**.
-* **Phase 2 (Cloud Backend Integration):** Operational migration of schema structures to **Amazon DynamoDB** $\rightarrow$ Serverless request handling routing through **AWS Lambda & API Gateway** $\rightarrow$ Security layers implementing **Amazon Cognito** user authentication pools.
-
-#### ☁️ AWS Educate Target Priorities
-1. 📂 **Storage Engine** (S3 Bucket Foundations)
-2. ⚡ **Serverless Workflows** (Lambda runtimes)
-3. 💾 **Database Modeling** (DynamoDB NoSQL schemas)
-4. 🔐 **Security Layouts** (Cognito Access Controls)
+*  **[cineboard](https://github.com)** – Movie moodboard application tracking collections and vibes via AWS S3 & DynamoDB.
+*  **[banking-system-core](https://github.com)** – Robust, thread-safe financial ledger engine built for software house interviews.
+*  **[java-dsa-portfolio](https://github.com)** – Live, automated pipeline syncing algorithmic problem-solving logs.
+*  **[uni-learning-journal](https://github.com)** – Structured computer science study logs, architectural patterns, and cloud notes.
 
 ---
 
-### 🚀 Engineering Pipelines & Repositories
-
-* **🧮 [java-dsa-portfolio](https://github.com)**: Automated execution engine syncing data structure logic directly from my training logs.
-* **🏦 [banking-system-core](#)**: *Under Research.* An upcoming robust backend architecture engine built for interview project deep-dives.
-* **📓 [uni-learning-journal](#)**: Active study logs, platform architectural deep dives, and system preparation frameworks.
-
----
-
-### 📊 Live Algorithmic Progression Tracker
+###  Live Algorithmic Progression Tracker
 <div align="center">
   <img src="https://vercel.app" alt="Aisha's LeetCode Analytics" />
 </div>
