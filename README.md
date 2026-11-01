@@ -40,10 +40,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=proaisha95&show_icons=true&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Stats" /> -->
 
-</div>
-
-<div align="right">
-
-<img src="https://komarev.com/ghpvc/?username=proaisha95&label=views&color=gray&style=flat-square" alt="Profile Views" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=proaisha95&label=views&color=F9A8D4&style=flat-square" alt="Profile Views" />
