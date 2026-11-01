@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=F9DBE2&repeat=false&width=435&lines=Hi%2C+My+name+is+Aisha+Ali!)](https://git.io/typing-svg)
+![Hi, my name is Aisha Ali!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=58A6FF&repeat=false&width=435&lines=Hi%2C+My+name+is+Aisha+Ali!)
 
 ---
 
