@@ -1,7 +1,7 @@
 # Hi, I'm Aisha Ali 👋
 
-**Software Engineering Student**  
-*1st Year BSc Computing Student 
+**Software Engineering Student @ WeThinkCode_**  
+1st Year BSc Computing Student 
 
 ---
 
@@ -21,9 +21,8 @@
 ---
 
 ### 📈 GitHub Stats Tracker
-![Aisha's GitHub Stats](https://vercel.app)
 
----
+![Aisha's GitHub Stats](https://vercel.app)
 
 ![Profile Views](https://komarev.com)
 
