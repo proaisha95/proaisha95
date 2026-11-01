@@ -20,8 +20,16 @@
 
 ---
 
-![Aisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=proaisha95&show_icons=true)
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=proaisha95&show_icons=true&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Stats" />
+
+### 👁️ Profile Visits
+
+<img src="https://komarev.com/ghpvc/?username=proaisha95&label=Profile+views&color=blueviolet&style=flat" alt="Profile Views" />
+
+</div>
+
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=proaisha95)
-
