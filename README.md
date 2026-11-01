@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=FFD6E8&repeat=false&width=435&lines=Hi%2C+My+name+is+Aisha+Ali!">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=EC4899&repeat=false&width=435&lines=Hi%2C+My+name+is+Aisha+Ali!">
-  <img alt="Hi, my name is Aisha Ali!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=EC4899&repeat=false&width=435&lines=Hi%2C+My+name+is+Aisha+Ali!">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=F9E3E3&repeat=false&width=435&lines=Hello+World%2C+I'm+Aisha+Ali)](https://git.io/typing-svg)
 
 ---
 
