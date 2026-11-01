@@ -24,5 +24,8 @@
 
 ![Aisha's GitHub Stats](https://vercel.app)
 
+---
+
+### 👁️ Profile Visits
 ![Profile Views](https://komarev.com)
 
