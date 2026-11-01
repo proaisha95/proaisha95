@@ -25,7 +25,7 @@
 - 🎬 **Watching:** whatever's on my [Letterboxd](https://letterboxd.com/iisshh/)
 - 📚 **Learning:** AWS cloud computing (S3, DynamoDB)
 - 🔨 **Building:** [Cineboard](https://github.com/proaisha95/cineboard), a movie moodboard on AWS
-- ☕ **Fun fact:** I run on coffee and anime
+- ☕ **Fun fact:** Coffee and movies/anime
 
 ---
 
