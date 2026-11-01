@@ -20,11 +20,20 @@
 
 ---
 
-<div align="center">
+### ✨ Right now
+
+- 🎬 **Watching:** whatever's on my [Letterboxd](https://letterboxd.com/iisshh/)
+- 📚 **Learning:** AWS cloud computing (S3, DynamoDB)
+- 🔨 **Building:** [Cineboard](https://github.com/proaisha95/cineboard), a movie moodboard on AWS
+- ☕ **Fun fact:** I run on coffee and anime
+
+---
+
+<!-- <div align="center">
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=proaisha95&show_icons=true&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=proaisha95&show_icons=true&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Stats" /> -->
 
 </div>
 
