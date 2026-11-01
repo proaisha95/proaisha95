@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=F4C2C2&width=435&lines=Hi%2C+My+name+is+Aisha+Ali!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=988&color=F4C2C2&repeat=false&width=435&lines=Hi%2C+My+name+is+Aisha+Ali!)](https://git.io/typing-svg)
+
+---
 
 **Software Engineering Student @ WeThinkCode_**  
 1st Year BSc Computing Student 
