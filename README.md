@@ -20,12 +20,8 @@
 
 ---
 
-### 📈 GitHub Stats Tracker
-
-![Aisha's GitHub Stats](https://vercel.app)
-
+![Aisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=proaisha95&show_icons=true)
 ---
 
-### 👁️ Profile Visits
-![Profile Views](https://komarev.com)
+![Profile Views](https://komarev.com/ghpvc/?username=proaisha95)
 
