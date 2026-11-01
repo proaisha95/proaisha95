@@ -1,23 +1,29 @@
-# Hi, I'm Aisha Ali 
-### Software Engineering Student 
+# Hi, I'm Aisha Ali 👋
 
- **1st Year BSc Computing Student**  
- Looking for Software Development roles in 2027  
-
- **Connect:** proaisha95@gmail.com  
+**Software Engineering Student**  
+*1st Year BSc Computing Student 
 
 ---
 
-###  Core Engineering Repositories
-
-*  **[cineboard](https://github.com)** – Movie moodboard application tracking collections and vibes via AWS S3 & DynamoDB.
-*  **[banking-system-core](https://github.com)** – Robust, thread-safe financial ledger engine built for software house interviews.
-*  **[java-dsa-portfolio](https://github.com)** – Live, automated pipeline syncing algorithmic problem-solving logs.
-*  **[uni-learning-journal](https://github.com)** – Structured computer science study logs, architectural patterns, and cloud notes.
+### 💻 Technical Skills
+* **Languages:** Java, Python, SQL 
+* **Cloud & Infrastructure:** AWS (S3, DynamoDB)
+* **Core Concepts:** Thread-safe Architectures, Data Structures & Algorithms, CI/CD Pipelines
 
 ---
 
-###  Live Algorithmic Progression Tracker
-<div align="center">
-  <img src="https://vercel.app" alt="Aisha's LeetCode Analytics" />
-</div>
+### 🛠️ Featured Repositories
+
+* **[cineboard](https://github.com)** – Movie moodboard application tracking collections and vibes via AWS S3 & DynamoDB.
+* **[banking-system-core](https://github.com)** – Robust, thread-safe financial ledger engine built for software house interviews.
+* **[java-dsa-portfolio](https://github.com)** – Live, automated pipeline syncing algorithmic problem-solving logs.
+
+---
+
+### 📈 GitHub Stats Tracker
+![Aisha's GitHub Stats](https://vercel.app)
+
+---
+
+![Profile Views](https://komarev.com)
+
