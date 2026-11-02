@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1&color=F9E3E3&background=FFFF3300&vCenter=true&repeat=false&width=300&height=97&lines=Hello+World%2C+I'm+Aisha+Ali.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1&color=F9E3E3&background=FFFF3300&vCenter=true&repeat=false&height=20&lines=Hello+World%2C+I'm+Aisha+Ali.)](https://git.io/typing-svg)
 ---
 
 **Software Engineering Student @ WeThinkCode_**  
