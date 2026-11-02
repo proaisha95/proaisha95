@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=988&color=F9E3E3&repeat=false&width=435&lines=Hello+World%2C+I'm+Aisha+Ali)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=988&color=F9E3E3&vCenter=true&repeat=false&width=300&height=97&lines=Hello+World%2C;+I'm+Aisha+Ali)](https://git.io/typing-svg)
 
 ---
 
