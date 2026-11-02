@@ -22,14 +22,6 @@
 
 ---
 
-###  Right now
-
--  **Learning:** AWS cloud computing (S3, DynamoDB)
--  **Building:** [Cineboard](https://github.com/proaisha95/cineboard), a movie moodboard on AWS
--  **Fun fact:** Coffee and movies/anime
-
----
-
 <!-- <div align="center">
 
 ### 📈 GitHub Stats
